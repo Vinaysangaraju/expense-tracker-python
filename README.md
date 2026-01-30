@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://via.placeholder.com/800x400/1e1e1e/ffffff?text=Python+Expense+Tracker"width="120">
+   <img src="![Expense Tracker](https://picsum.photos/800/400)"width="120">
 </p>
 
 # expense-tracker-python
