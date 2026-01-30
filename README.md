@@ -1,6 +1,7 @@
 <p align="center">
-   <img src="assests/logo.png"width="120">
+   <img src="https://via.placeholder.com/800x400/1e1e1e/ffffff?text=Python+Expense+Tracker"width="120">
 </p>
+
 # expense-tracker-python
 Console-based Expense Tracker built using Python and OOPS concepts.
 # Expense Tracker (Console-Based)
