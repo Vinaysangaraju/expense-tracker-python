@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="assests/logo.png"width="120">
+</p>
 # expense-tracker-python
 Console-based Expense Tracker built using Python and OOPS concepts.
 # Expense Tracker (Console-Based)
